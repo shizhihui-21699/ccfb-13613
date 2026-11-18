@@ -16,3 +16,8 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# 评估产物（含合成语料与权重）
+results/
+*.pt
+.pytest_cache/
